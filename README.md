@@ -1,4 +1,4 @@
-# RGBDAerialTracking
+# Resource-Efficient RGBD Aerial Tracking
 
 
 ### Citation
